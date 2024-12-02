@@ -9,5 +9,7 @@
     <br />
     <br />
     <br />
+    <a href="https://sclux7.world/">
     <img src="./assets/sclux7button.gif" height=31>
+    </a>
 </div>
