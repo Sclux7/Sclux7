@@ -9,5 +9,5 @@
     <br />
     <br />
     <br />
-    <img src="./buttons/sclux7button.gif" height=31>
+    <img src="./assets/sclux7button.gif" height=31>
 </div>
