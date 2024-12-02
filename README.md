@@ -2,17 +2,13 @@
 ## the
 
 <div align="center">
-  <img src="./assets/welcomepage.png" style="max-width: 100%;" alt="the page" />
-  <br />
-  <br />
-  <br />
-  <p> My name is Sclux7... </p>
+  <h1> My name is Sclux7... </h1>
   <div align="right">
-    <p>welcome to my page.....</p>
+    <h2>welcome to my page.....</h2>
 </div>
 
 <div align="left">
-    <a href="https://sclux7.world/>CLICK MY LINK!!!!!!!!!!!!!!!</a>
+    <a href="https://sclux7.world/">CLICK MY LINK!!!!!!!!!!!!!!!</a>
     <br />
     <br />
     <br />
