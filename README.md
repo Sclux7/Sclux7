@@ -8,11 +8,11 @@
   <br />
   <p> My name is Sclux7... </p>
   <div align="right">
-    <p>I LOVE <strong>LINKIN PARK</strong> !!</p>
+    <p>welcome to my page.....</p>
 </div>
 
 <div align="left">
-    <p>CLICK MY LINK!!!!!!!!!!!!!!!</p>
+    <a href="https://sclux7.world/>CLICK MY LINK!!!!!!!!!!!!!!!</a>
     <br />
     <br />
     <br />
