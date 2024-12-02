@@ -14,8 +14,4 @@
     <br />
 </div>
 
-
-
-<img src="./assets/d666.gif" height=31 />
-<img src="./assets/gif_necro.gif" height=31 />
-<img src="./assets/go2hellnow.gif" height=31 />
+<img src="./buttons/sclux7button.gif" height=31 />
