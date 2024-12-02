@@ -1,6 +1,3 @@
-# Sclux7
-## the
-
 <div align="center">
   <h1> My name is Sclux7... </h1>
   <div align="right">
@@ -12,6 +9,6 @@
     <br />
     <br />
     <br />
+    <img src="./buttons/sclux7button.gif" height=31>
 </div>
 
-<img src="./buttons/sclux7button.gif" height=31 />
